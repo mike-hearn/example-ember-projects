@@ -1,0 +1,33 @@
+[submodule "Ghost"]
+	path = Ghost
+	url = git@github.com:TryGhost/Ghost.git
+[submodule "discourse"]
+	path = discourse
+	url = git@github.com:discourse/discourse.git
+[submodule "wordset-ui"]
+	path = wordset-ui
+	url = https://github.com/wordset/wordset-ui.git
+[submodule "travis-web"]
+	path = travis-web
+	url = https://github.com/travis-ci/travis-web.git
+[submodule "hummingbird"]
+	path = hummingbird
+	url = https://github.com/hummingbird-me/hummingbird.git
+[submodule "sharedrop"]
+	path = sharedrop
+	url = https://github.com/cowbell/sharedrop.git
+[submodule "hospitalrun-frontend"]
+	path = hospitalrun-frontend
+	url = https://github.com/HospitalRun/hospitalrun-frontend.git
+[submodule "ember.js"]
+	path = ember.js
+	url = https://github.com/emberjs/ember.js.git
+[submodule "ember-twiddle"]
+	path = ember-twiddle
+	url = https://github.com/ember-cli/ember-twiddle.git
+[submodule "community"]
+	path = community
+	url = https://github.com/documize/community.git
+[submodule "client"]
+	path = client
+	url = https://github.com/emberobserver/client.git
