@@ -31,3 +31,21 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/emberobserver/client.git
+[submodule "rancher-ui"]
+	path = rancher-ui
+	url = https://github.com/rancher/ui.git
+[submodule "Ghost-Admin"]
+	path = Ghost-Admin
+	url = https://github.com/TryGhost/Ghost-Admin.git
+[submodule "flexi"]
+	path = flexi
+	url = https://github.com/html-next/flexi.git
+[submodule "skylines"]
+	path = skylines
+	url = https://github.com/skylines-project/skylines.git
+[submodule "ember-power-calendar"]
+	path = ember-power-calendar
+	url = https://github.com/cibernox/ember-power-calendar.git
+[submodule "library-app"]
+	path = library-app
+	url = https://github.com/zoltan-nz/library-app.git
