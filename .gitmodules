@@ -49,3 +49,57 @@
 [submodule "library-app"]
 	path = library-app
 	url = https://github.com/zoltan-nz/library-app.git
+[submodule "ember-g-recaptcha"]
+	path = ember-g-recaptcha
+	url = https://github.com/algonauti/ember-g-recaptcha.git
+[submodule "ember-resolver"]
+	path = ember-resolver
+	url = https://github.com/ember-cli/ember-resolver.git
+[submodule "data"]
+	path = data
+	url = https://github.com/emberjs/data.git
+[submodule "ember-qunit"]
+	path = ember-qunit
+	url = https://github.com/emberjs/ember-qunit.git
+[submodule "ember-try"]
+	path = ember-try
+	url = https://github.com/ember-cli/ember-try.git
+[submodule "ember-basic-dropdown"]
+	path = ember-basic-dropdown
+	url = https://github.com/cibernox/ember-basic-dropdown.git
+[submodule "ember-lifeline"]
+	path = ember-lifeline
+	url = https://github.com/ember-lifeline/ember-lifeline.git
+[submodule "ember-power-select"]
+	path = ember-power-select
+	url = https://github.com/cibernox/ember-power-select.git
+[submodule "ember-cookies"]
+	path = ember-cookies
+	url = https://github.com/simplabs/ember-cookies.git
+[submodule "liquid-fire"]
+	path = liquid-fire
+	url = https://github.com/ember-animation/liquid-fire.git
+[submodule "ember-fetch"]
+	path = ember-fetch
+	url = https://github.com/ember-cli/ember-fetch.git
+[submodule "ember-cli-mirage"]
+	path = ember-cli-mirage
+	url = https://github.com/samselikoff/ember-cli-mirage.git
+[submodule "ember-tether"]
+	path = ember-tether
+	url = https://github.com/yapplabs/ember-tether.git
+[submodule "ember-simple-auth"]
+	path = ember-simple-auth
+	url = https://github.com/simplabs/ember-simple-auth.git
+[submodule "ember-cp-validations"]
+	path = ember-cp-validations
+	url = https://github.com/offirgolan/ember-cp-validations.git
+[submodule "ember-cli-page-object"]
+	path = ember-cli-page-object
+	url = https://github.com/san650/ember-cli-page-object.git
+[submodule "qunit-dom"]
+	path = qunit-dom
+	url = https://github.com/simplabs/qunit-dom.git
+[submodule "ember-cli-template-lint"]
+	path = ember-cli-template-lint
+	url = https://github.com/ember-template-lint/ember-cli-template-lint.git
